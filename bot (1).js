@@ -27,4 +27,4 @@ const client = new Discord.Client();
 }); 
 
 
-client.login("توكن البوت")
+client.login("NTA1MjM0NjE3OTM5NTI1NjM4.DrQoBQ.h42eSDnwPYFvhA3RBHrSq-_PLsI")
